@@ -1,0 +1,3 @@
+.terraform*
+virtualbox.box
+*.tfstate*
