@@ -14,3 +14,6 @@ variable "cpus" {
 variable "memory" {
 	default = "2048 mib"
 }
+variable "name" {
+  default = "member01"
+}
